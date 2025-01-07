@@ -1,4 +1,3 @@
-
 // basic rust denial of service simulation
 
 use std::io::{self, Write};
